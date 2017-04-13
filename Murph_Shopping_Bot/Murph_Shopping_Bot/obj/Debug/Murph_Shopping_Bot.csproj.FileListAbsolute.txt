@@ -1,0 +1,39 @@
+c:\users\asus\documents\visual studio 2015\Projects\Murph_Shopping_Bot\Murph_Shopping_Bot\bin\Bot Application1.dll.config
+c:\users\asus\documents\visual studio 2015\Projects\Murph_Shopping_Bot\Murph_Shopping_Bot\bin\Bot Application1.dll
+c:\users\asus\documents\visual studio 2015\Projects\Murph_Shopping_Bot\Murph_Shopping_Bot\bin\Bot Application1.pdb
+c:\users\asus\documents\visual studio 2015\Projects\Murph_Shopping_Bot\Murph_Shopping_Bot\bin\Autofac.dll
+c:\users\asus\documents\visual studio 2015\Projects\Murph_Shopping_Bot\Murph_Shopping_Bot\bin\Chronic.dll
+c:\users\asus\documents\visual studio 2015\Projects\Murph_Shopping_Bot\Murph_Shopping_Bot\bin\Microsoft.Bot.Builder.dll
+c:\users\asus\documents\visual studio 2015\Projects\Murph_Shopping_Bot\Murph_Shopping_Bot\bin\Microsoft.Bot.Connector.dll
+c:\users\asus\documents\visual studio 2015\Projects\Murph_Shopping_Bot\Murph_Shopping_Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\asus\documents\visual studio 2015\Projects\Murph_Shopping_Bot\Murph_Shopping_Bot\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\asus\documents\visual studio 2015\Projects\Murph_Shopping_Bot\Murph_Shopping_Bot\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\asus\documents\visual studio 2015\Projects\Murph_Shopping_Bot\Murph_Shopping_Bot\bin\Newtonsoft.Json.dll
+c:\users\asus\documents\visual studio 2015\Projects\Murph_Shopping_Bot\Murph_Shopping_Bot\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\asus\documents\visual studio 2015\Projects\Murph_Shopping_Bot\Murph_Shopping_Bot\bin\System.Net.Http.Formatting.dll
+c:\users\asus\documents\visual studio 2015\Projects\Murph_Shopping_Bot\Murph_Shopping_Bot\bin\System.Web.Http.dll
+c:\users\asus\documents\visual studio 2015\Projects\Murph_Shopping_Bot\Murph_Shopping_Bot\bin\System.Web.Http.WebHost.dll
+c:\users\asus\documents\visual studio 2015\Projects\Murph_Shopping_Bot\Murph_Shopping_Bot\bin\Autofac.xml
+c:\users\asus\documents\visual studio 2015\Projects\Murph_Shopping_Bot\Murph_Shopping_Bot\bin\Microsoft.Bot.Builder.xml
+c:\users\asus\documents\visual studio 2015\Projects\Murph_Shopping_Bot\Murph_Shopping_Bot\bin\Microsoft.Bot.Connector.xml
+c:\users\asus\documents\visual studio 2015\Projects\Murph_Shopping_Bot\Murph_Shopping_Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+c:\users\asus\documents\visual studio 2015\Projects\Murph_Shopping_Bot\Murph_Shopping_Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\asus\documents\visual studio 2015\Projects\Murph_Shopping_Bot\Murph_Shopping_Bot\bin\Microsoft.Rest.ClientRuntime.xml
+c:\users\asus\documents\visual studio 2015\Projects\Murph_Shopping_Bot\Murph_Shopping_Bot\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\asus\documents\visual studio 2015\Projects\Murph_Shopping_Bot\Murph_Shopping_Bot\bin\Newtonsoft.Json.xml
+c:\users\asus\documents\visual studio 2015\Projects\Murph_Shopping_Bot\Murph_Shopping_Bot\bin\System.IdentityModel.Tokens.Jwt.pdb
+c:\users\asus\documents\visual studio 2015\Projects\Murph_Shopping_Bot\Murph_Shopping_Bot\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\asus\documents\visual studio 2015\Projects\Murph_Shopping_Bot\Murph_Shopping_Bot\bin\System.Net.Http.Formatting.xml
+c:\users\asus\documents\visual studio 2015\Projects\Murph_Shopping_Bot\Murph_Shopping_Bot\bin\System.Web.Http.xml
+c:\users\asus\documents\visual studio 2015\Projects\Murph_Shopping_Bot\Murph_Shopping_Bot\bin\System.Web.Http.WebHost.xml
+c:\users\asus\documents\visual studio 2015\Projects\Murph_Shopping_Bot\Murph_Shopping_Bot\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\Murph_Shopping_Bot\Murph_Shopping_Bot\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\Murph_Shopping_Bot\Murph_Shopping_Bot\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\Murph_Shopping_Bot\Murph_Shopping_Bot\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\Murph_Shopping_Bot\Murph_Shopping_Bot\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\Murph_Shopping_Bot\Murph_Shopping_Bot\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\Murph_Shopping_Bot\Murph_Shopping_Bot\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\Murph_Shopping_Bot\Murph_Shopping_Bot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\Murph_Shopping_Bot\Murph_Shopping_Bot\obj\Debug\Murph_Shopping_Bot.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\Murph_Shopping_Bot\Murph_Shopping_Bot\obj\Debug\Bot Application1.dll
+c:\users\asus\documents\visual studio 2015\Projects\Murph_Shopping_Bot\Murph_Shopping_Bot\obj\Debug\Bot Application1.pdb
